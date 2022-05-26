@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <br/>
 
+## ✨ Streak:
 <p align="center">
     <a>
         <img alt="Vimal's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=BlaZe-001&theme=blueberry_duo&date_format=j%20M%5B%20Y%5D"/>
