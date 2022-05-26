@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#"><img width="80%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
+<a href="#"><img align="center" width="80%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vimal</h1>
 <!-- <h3 align="center"></h3> -->
