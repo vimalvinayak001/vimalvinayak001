@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vimal-vinayak-6485b9208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/vimalvinayak001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/vimal.vinayak000"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/vimalvinayak/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/itsVimalVinayak"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
