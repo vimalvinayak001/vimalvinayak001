@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-    <img width="40%" height="auto" src="https://thecodingsection.com/wp-content/uploads/2021/09/intro-img.png"/>
-</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Vimal</h1>
 <!-- <h3 align="center"></h3> -->
